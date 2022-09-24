@@ -1,3 +1,3 @@
 # TrollStore-ipa
-Requires devices jailbroken or supported by TrollStore to install
+Requires jailbroken devices or supported by TrollStore to install
 https://github.com/opa334/TrollStore
